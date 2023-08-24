@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/start_dialogs" android:padding="8dp" android:layout_width="300dp" android:layout_height="wrap_content">
+        <TextView android:textSize="25sp" android:textStyle="bold" android:textColor="#000" android:gravity="center" android:layout_gravity="center" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Attention"/>
+        <TextView android:textSize="16sp" android:textColor="#000" android:gravity="center" android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="80dp" android:text="This app is not available Please try other app and click OK."/>
+        <ImageView android:layout_gravity="center" android:id="@+id/confirm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginBottom="10dp" android:src="@drawable/attentions"/>
+    </LinearLayout>
+</LinearLayout>

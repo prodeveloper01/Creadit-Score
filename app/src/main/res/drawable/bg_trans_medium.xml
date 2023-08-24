@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="305dp"
+    android:height="50dp"
+    android:viewportWidth="305"
+    android:viewportHeight="50">
+  <path
+      android:pathData="M0,8C0,3.58 3.58,0 8,0H297C301.42,0 305,3.58 305,8V42C305,46.42 301.42,50 297,50H8C3.58,50 0,46.42 0,42V8Z"
+      android:strokeAlpha="0.3"
+      android:fillAlpha="0.063">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:startX="152.5"
+          android:startY="0"
+          android:endX="152.5"
+          android:endY="50"
+          android:type="linear">
+        <item android:offset="0" android:color="#66FFFFFF"/>
+        <item android:offset="1" android:color="#33D9D9D9"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="M0,8C0,3.58 3.58,0 8,0H297C301.42,0 305,3.58 305,8V42C305,46.42 301.42,50 297,50H8C3.58,50 0,46.42 0,42V8Z"
+      android:strokeAlpha="0.3"
+      android:fillColor="#33FFFFFF"
+      android:fillAlpha="0.021"/>
+  <group>
+    <clip-path
+        android:pathData="M0,8C0,3.58 3.58,0 8,0H297C301.42,0 305,3.58 305,8V42C305,46.42 301.42,50 297,50H8C3.58,50 0,46.42 0,42V8Z"/>
+    <path
+        android:pathData="M0,8C0,3.28 3.83,-0.55 8.55,-0.55H296.45C301.17,-0.55 305,3.28 305,8V8C305,3.89 301.42,0.55 297,0.55H8C3.58,0.55 0,3.89 0,8V8ZM305,50H0H305ZM0,50V0V50ZM305,0V50V0Z"
+        android:strokeAlpha="0.3"
+        android:fillColor="#33FFFFFF"
+        android:fillAlpha="0.03"/>
+  </group>
+  <group>
+    <clip-path
+        android:pathData="M0,8C0,3.58 3.58,0 8,0H297C301.42,0 305,3.58 305,8V42C305,46.42 301.42,50 297,50H8C3.58,50 0,46.42 0,42V8Z"/>
+    <path
+        android:pathData="M0,8C0,3.28 3.83,-0.55 8.55,-0.55H296.45C301.17,-0.55 305,3.28 305,8V8C305,3.89 301.42,0.55 297,0.55H8C3.58,0.55 0,3.89 0,8V8ZM305,50H0H305ZM0,50V0V50ZM305,0V50V0Z"
+        android:strokeAlpha="0.3"
+        android:fillColor="#ffffff"
+        android:fillAlpha="0.06"/>
+  </group>
+</vector>
